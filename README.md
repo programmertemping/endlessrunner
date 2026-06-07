@@ -1,6 +1,6 @@
 # Copyright Notice
 
-© 2026 kashi-games. All Rights Reserved.
+© 2026 KASHI GAMES HUB. All Rights Reserved.
 
 This project, including but not limited to its source code, game logic, assets, graphics, audio, documentation, and other associated materials, is proprietary and protected by copyright law.
 
